@@ -1,0 +1,16 @@
+C:\Personal Projects\Color Picker\Color Picker\bin\Debug\netcoreapp3.1\Color Picker.exe
+C:\Personal Projects\Color Picker\Color Picker\bin\Debug\netcoreapp3.1\Color Picker.deps.json
+C:\Personal Projects\Color Picker\Color Picker\bin\Debug\netcoreapp3.1\Color Picker.runtimeconfig.json
+C:\Personal Projects\Color Picker\Color Picker\bin\Debug\netcoreapp3.1\Color Picker.runtimeconfig.dev.json
+C:\Personal Projects\Color Picker\Color Picker\bin\Debug\netcoreapp3.1\Color Picker.dll
+C:\Personal Projects\Color Picker\Color Picker\bin\Debug\netcoreapp3.1\Color Picker.pdb
+C:\Personal Projects\Color Picker\Color Picker\obj\Debug\netcoreapp3.1\Color Picker.csproj.AssemblyReference.cache
+C:\Personal Projects\Color Picker\Color Picker\obj\Debug\netcoreapp3.1\Color_Picker.Form1.resources
+C:\Personal Projects\Color Picker\Color Picker\obj\Debug\netcoreapp3.1\Color Picker.csproj.GenerateResource.cache
+C:\Personal Projects\Color Picker\Color Picker\obj\Debug\netcoreapp3.1\Color Picker.GeneratedMSBuildEditorConfig.editorconfig
+C:\Personal Projects\Color Picker\Color Picker\obj\Debug\netcoreapp3.1\Color Picker.AssemblyInfoInputs.cache
+C:\Personal Projects\Color Picker\Color Picker\obj\Debug\netcoreapp3.1\Color Picker.AssemblyInfo.cs
+C:\Personal Projects\Color Picker\Color Picker\obj\Debug\netcoreapp3.1\Color Picker.csproj.CoreCompileInputs.cache
+C:\Personal Projects\Color Picker\Color Picker\obj\Debug\netcoreapp3.1\Color Picker.dll
+C:\Personal Projects\Color Picker\Color Picker\obj\Debug\netcoreapp3.1\Color Picker.pdb
+C:\Personal Projects\Color Picker\Color Picker\obj\Debug\netcoreapp3.1\Color Picker.genruntimeconfig.cache
